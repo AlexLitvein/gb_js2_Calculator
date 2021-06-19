@@ -1,0 +1,23 @@
+{
+  "name": "js2Calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calc.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexLitvein/gb_js2_Calculator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexLitvein/gb_js2_Calculator/issues"
+  },
+  "homepage": "https://github.com/AlexLitvein/gb_js2_Calculator#readme",
+  "dependencies": {
+    "jasmine": "^3.7.0"
+  }
+}
